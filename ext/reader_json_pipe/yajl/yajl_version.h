@@ -1,0 +1,1 @@
+#define YAJL_VERSION 001
